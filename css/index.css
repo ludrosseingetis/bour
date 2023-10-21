@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+}
+.barre-mid {
+    background-color: #cfcfc8;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 800px;
+    box-shadow: 0 0 20px lightgrey;
+    border-radius: 20px;
+}
+.topname {
+    margin-top: 4%;
+    text-align: center;
+    font-family: Arial;
+    color: lightskyblue;    
+}
+
+.hautgauche{
+margin-left: 5%;
+float: left;
+
+}
+.Nomhg {
+    text-align: center;
+}
+.lienhg {
+    text-align: center ;
+}
+.hautdroite {
+    margin-left: 5%;
+    margin-right: 5%;
+    float: right;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+
+}
